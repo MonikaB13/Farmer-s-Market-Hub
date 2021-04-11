@@ -1,0 +1,17 @@
+.shop-header {
+    margin: 32px 0;
+}
+
+.shop {
+    margin-bottom: 64px;
+}
+
+.shop-checkout {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 32px;
+}
+
+.react-bs-table table td, .react-bs-table table th {
+    text-overflow: unset !important;
+}

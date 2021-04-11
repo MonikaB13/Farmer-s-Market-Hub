@@ -1,0 +1,11 @@
+.confirmation {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    height: 88vh;
+}
+
+.confirmation-header {
+    margin-top: 32px;
+}

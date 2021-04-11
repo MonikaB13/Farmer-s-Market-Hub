@@ -1,0 +1,18 @@
+{
+    "entries": [
+        {
+          "vendorUsername": "Old Mcdonald",
+          "price": "3.99",
+          "category": "Vegetable",
+          "item": "Carrot",
+          "inStock": "false"
+        },
+        {
+          "vendorUsername": "Spiderman",
+          "price": "10.99",
+          "category": "Fruit",
+          "item": "Apple",
+          "inStock": "true"
+        }
+    ]
+}
